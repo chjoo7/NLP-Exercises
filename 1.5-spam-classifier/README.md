@@ -37,11 +37,6 @@ $ git clone https://github.com/chjoo7/NLP-Excercises/1.5-spam-classifier
 
 We will be using a [dataset](https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection) from the UCI Machine Learning repository which has a very good collection of datasets for experimental research purposes. The direct data link is [here](https://archive.ics.uci.edu/ml/machine-learning-databases/00228/).
 
-
- ** Here's a preview of the data: ** 
-
-<img src="images/dqnb.png" height="1024" width="1024">
-
 The columns in the data set are currently not named and as you can see, there are 2 columns. 
 
 The first column takes two values, 'ham' which signifies that the message is not spam, and 'spam' which signifies that the message is spam. 
